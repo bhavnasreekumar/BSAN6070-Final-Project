@@ -78,6 +78,17 @@ drive.mount('/content/drive')
 
 ---
 
+## Streamlit Deployment
+
+Interactive deployment of the AQI prediction project:
+
+Streamlit App URL:  
+[https://air-quality-predictor2-u8wqtkam3tbrbxabvb9weq.streamlit.app/]
+
+The Streamlit application allows users to explore model predictions, feature importance visualizations, and AQI forecasting outputs through an interactive interface.
+
+---
+
 ## Models Used
 
 Three machine learning classification models were implemented and compared:
